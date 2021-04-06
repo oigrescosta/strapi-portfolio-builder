@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_entries",
+  "info": {
+    "name": "entry",
+    "icon": "book-open"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    }
+  }
+}

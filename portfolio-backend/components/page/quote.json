@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_quotes",
+  "info": {
+    "name": "quote",
+    "icon": "bars"
+  },
+  "options": {},
+  "attributes": {
+    "big_text": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "background_color": {
+      "type": "string"
+    }
+  }
+}
